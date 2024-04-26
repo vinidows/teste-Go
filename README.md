@@ -1,2 +1,2 @@
 # teste-Go
-Teste web com o Golang
+Aplicação para teste de multistage com o Docker
